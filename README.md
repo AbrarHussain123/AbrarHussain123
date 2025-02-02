@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbrarHussain123
 - 👀 I’m interested in AI,ML and Robtics
-- 🌱 I’m currently Studying CSE with specialization in AI and Robotics
+- 🌱 I’m completed a CSE Degree with specialization in AI and Robotics
 - 💞️ I’m looking to collaborate on AI, ML projects
 - 📫 You can reach me by my email id abrar.hussainj03@gmail.com
 
